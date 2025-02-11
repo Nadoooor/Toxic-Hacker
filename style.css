@@ -1,0 +1,24 @@
+img {
+    width: 300px;
+}
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background-image: url('Hacker GIF - Hacker - Discover & Share GIFs.gif');
+    background-size: cover;
+    color: rgb(0, 255, 60);
+}
+ 
+img{
+
+margin-bottom: 10px;
+
+}
+
+.img{
+
+    background-color: rgba(82, 10, 217, 0.5);
+    margin: 0 auto;
+    padding: 20px;
+    width: 30%;
+}
