@@ -22,6 +22,7 @@ margin-bottom: 10px;
     padding: 20px;
     width: 30%;
 }
+
 .img:hover{
     background-color: rgba(82, 10, 217, 0.8);
 }
